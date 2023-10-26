@@ -1,0 +1,14 @@
+strip thickness = 3.5e-05 m
+conductor diameter/width without isolation/gap = 0.0008 m
+total conductor diameter/width = 0.0008 m
+total substrate width, including the wire diameter = 0.0016 m
+residual induction length = 0.06 m
+total optimisation length = 0.1 m
+adjusted internal radius = 0.0164 m
+adjusted external radius = 0.0228 m
+number of spiral turns = 8
+each spiral length = 0.9852244312316843 m
+wire spiral resistance = 0.03292870103993897 Ohms
+strip spiral resistance = 0.5911346587390107 Ohms
+power dissipated in the whole wire stack = 0.0030568445309518016 W
+power dissipated in the whole strip stack = 0.05487634469488181 W

@@ -1,0 +1,13 @@
+total current through all spiral coils = 0.2 A
+strip thickness = 3.5e-05 m
+conductor diameter/width without isolation/gap = 0.0005 m
+total conductor diameter/width = 0.0005200000000000001 m
+total substrate width, including the wire diameter = 0.001 m
+residual induction length = 0.06 m
+total optimisation length = 0.1 m
+adjusted internal radius = 0.015860000000000003 m
+total length of the spirals = 116.77919800287563 m
+total wire resistance = 9.991826402861111 Ohms
+total strip resistance = 112.10803008276069 Ohms
+power dissipated in the whole wire stack = 0.39967305611444454 W
+power dissipated in the whole strip stack = 4.4843212033104285 W

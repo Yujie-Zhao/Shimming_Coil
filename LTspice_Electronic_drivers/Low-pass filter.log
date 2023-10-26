@@ -1,0 +1,23 @@
+Circuit: * C:\Users\Composite\Desktop\Low-pass filter\Low-pass filter.asc
+
+Limiting rise time of source v1 to 2.5e-006
+Limiting fall time of source v1 to 2.5e-006
+.OP point found by inspection.
+
+Date: Sun May 21 02:38:22 2023
+Total elapsed time: 0.380 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 102492
+traniter = 102492
+tranpoints = 51247
+accept = 40847
+rejected = 10400
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1:       6 opcodes  0.0/[0.0]/0.0
+Matrix Compiler2: 248 bytes object code size  0.1/0.0/[0.0]
+
