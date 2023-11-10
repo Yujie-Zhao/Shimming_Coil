@@ -24,4 +24,4 @@ the need for microcontrollers.
 ➢ Successfully manufactured a working prototype of a four-channel electronic driver.  
 
 
-For more details, please read the pdf report.
+For more details, please read the pdf report: 'Design and optimisation of 1D shimming coils'. The purpose of each project folder can be found in the report appendix. You will have to tinker a little to install the Python libraries for MCP2221 and PCA9685. In the report we provide relevant links to the Adafruit website.
